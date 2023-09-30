@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MyReact_onlineUploadPratice/static/css/main.2f7456fe.css",
+    "main.js": "/MyReact_onlineUploadPratice/static/js/main.fb0b5113.js",
+    "index.html": "/MyReact_onlineUploadPratice/index.html",
+    "main.2f7456fe.css.map": "/MyReact_onlineUploadPratice/static/css/main.2f7456fe.css.map",
+    "main.fb0b5113.js.map": "/MyReact_onlineUploadPratice/static/js/main.fb0b5113.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f7456fe.css",
+    "static/js/main.fb0b5113.js"
+  ]
+}
